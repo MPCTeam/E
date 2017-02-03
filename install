@@ -1,6 +1,0 @@
-git clone https://github.com/HiddenErPo/tg
-cd tg
-git clone https://github.com/Rondoozle/tgl
-cd tgl
-git clone https://github.com/vysheng/tl-parser
-cd tl-parser
