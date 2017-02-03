@@ -1,4 +1,4 @@
-<p align="center"> ![http://www.axgig.com/images/46592705726635031187.png](http://www.axgig.com/images/46592705726635031187.png)
+<p align="center"> !
 # [Spider V1](https://telegram.me/AntiSpamSpider)
 
 [SINA]
