@@ -4,8 +4,8 @@ git clone https://github.com/Rondoozle/tgl
 cd tgl
 git clone https://github.com/vysheng/tl-parser
 cd
-cd jove
+cd E
 chmod +x launch.sh
-chmod +x jove
+chmod +x E
 ./launch.sh install
 screen ./launch.sh
