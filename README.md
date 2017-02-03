@@ -1,7 +1,7 @@
 
 #[Spider V1](https://telegram.me/AntiSpamSpider)
 
-[SINA]
+[SINA]----->
 *@C_N_A
 
 <table><thead>
