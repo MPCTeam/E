@@ -4,7 +4,7 @@ git clone https://github.com/Rondoozle/tgl
 cd tgl
 git clone https://github.com/vysheng/tl-parser
 cd tl-parser
-cd E
+cd Jove
 ./launch.sh install
 ./install.sh
 screen ./launch.sh
