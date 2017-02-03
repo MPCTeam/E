@@ -1,8 +1,7 @@
-<p align="center"> !
-# [Spider V1](https://telegram.me/AntiSpamSpider)
+
+#[Spider V1](https://telegram.me/AntiSpamSpider)
 
 [SINA]
-
 *@C_N_A
 
 <table><thead>
